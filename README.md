@@ -1,10 +1,4 @@
----
-contributors:
-  - Pietro Ortoleva
-  - Denis Shishkin
----
-
-[![DOI](https://zenodo.org/badge/596248264.svg)](https://zenodo.org/badge/latestdoi/596248264) [![DOI](https://doi.org/10.1016/j.jet.2023.105610)](https://doi.org/10.1016/j.jet.2023.105610)
+[![DOI](https://zenodo.org/badge/596248264.svg)](https://zenodo.org/badge/latestdoi/596248264)
 
 ## Overview
 
